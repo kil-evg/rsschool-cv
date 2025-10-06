@@ -20,7 +20,7 @@
 
 ### Application manager
 **Sberbank-Technology, Novosibirsk, Russia | 10/2012 - 02/2018 | [www.sbertech.ru](https://sbertech.ru/)**  
-![Sbertech logo](./images/sber.png)  
+ 
 
 - Managed and coordinated an Agile team of 3-10 employees within the strategic project "Centralization" (Gold award IPMA International Project Excellence Award 2015 Mega-Sized Projects category and the Model Bank 2016 award Legacy Transformation category)  
 - Developed and documented software solutions  
@@ -37,7 +37,7 @@
 
 ### Senior Support Specialist
 **Center of Financial Technologies, Novosibirsk, Russia | 11/2007 - 10/2012 | [www.cft.ru](https://www.cft.ru/)**  
-![CFT logo](./images/cft.jfif)  
+
 
 - IT Support for the CFT banking system (automated analytical bookkeeping system), focusing on customers, deposits, and banking reports  
 - Supported and advised clients on system use and troubleshooting  
