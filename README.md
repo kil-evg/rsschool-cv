@@ -1,2 +1,2 @@
 # rsschool-cv
-https://kil_evg.github.io/rsschool-cv/cv
+https://kil-evg.github.io/rsschool-cv/cv
